@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\projects_c#\\lab12\\lab12\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\lab12.bundle.scp.css",
+      "PackagePath": "staticwebassets\\lab12.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\projects_c#\\lab12\\lab12\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.lab12.props",
+      "PackagePath": "build\\lab12.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.lab12.props",
+      "PackagePath": "buildMultiTargeting\\lab12.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.lab12.props",
+      "PackagePath": "buildTransitive\\lab12.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.lab12.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,33 @@
+﻿@page
+@model Lab12.Pages.Users.Createusers_tr
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    Layout = "_Layout";
+}
+
+<form method="post">
+    <div class="card">
+        <div class="card-header">
+            <h1>New users_tr</h1>
+        </div>
+        <div class="card-body">
+            <div class="passEditRowphone">
+                <label asp-for="users_tr.phone_number">Phone Number: </label>
+                <input asp-for="users_tr.phone_number" placeholder="@Model.users_tr.phone_number" />
+            </div>
+            <div class="passEditRowname">
+                <label asp-for="users_tr.name">Name: </label>
+                <input asp-for="users_tr.name" placeholder="@Model.users_tr.name" />
+            </div>
+            <div class="passEditRowmail">
+                <label asp-for="users_tr.email">Email: </label>
+                <input asp-for="users_tr.email" placeholder="@Model.users_tr.email" />
+            </div>
+        </div>
+    </div>
+    <div>
+        <button class="btn41-43 btn-43" type="submit">Create</button>
+        <a class="btn41-43 btn-43" asp-page="./Index">Cancel</a>
+    </div>
+</form>

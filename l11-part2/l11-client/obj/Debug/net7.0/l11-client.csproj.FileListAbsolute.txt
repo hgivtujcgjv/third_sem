@@ -1,0 +1,14 @@
+D:\projects_c#\l11-part2\l11-client\bin\Debug\net7.0\l11-client.exe
+D:\projects_c#\l11-part2\l11-client\bin\Debug\net7.0\l11-client.deps.json
+D:\projects_c#\l11-part2\l11-client\bin\Debug\net7.0\l11-client.runtimeconfig.json
+D:\projects_c#\l11-part2\l11-client\bin\Debug\net7.0\l11-client.dll
+D:\projects_c#\l11-part2\l11-client\bin\Debug\net7.0\l11-client.pdb
+D:\projects_c#\l11-part2\l11-client\obj\Debug\net7.0\l11-client.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects_c#\l11-part2\l11-client\obj\Debug\net7.0\l11-client.AssemblyInfoInputs.cache
+D:\projects_c#\l11-part2\l11-client\obj\Debug\net7.0\l11-client.AssemblyInfo.cs
+D:\projects_c#\l11-part2\l11-client\obj\Debug\net7.0\l11-client.csproj.CoreCompileInputs.cache
+D:\projects_c#\l11-part2\l11-client\obj\Debug\net7.0\l11-client.dll
+D:\projects_c#\l11-part2\l11-client\obj\Debug\net7.0\refint\l11-client.dll
+D:\projects_c#\l11-part2\l11-client\obj\Debug\net7.0\l11-client.pdb
+D:\projects_c#\l11-part2\l11-client\obj\Debug\net7.0\l11-client.genruntimeconfig.cache
+D:\projects_c#\l11-part2\l11-client\obj\Debug\net7.0\ref\l11-client.dll

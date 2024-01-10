@@ -1,0 +1,33 @@
+﻿@page
+@model Lab12.Pages.subscriber.CreateModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    Layout = "_Layout";
+}
+
+<form method="post">
+    <div class="card">
+        <div class="card-header">
+            <h1>New User</h1>
+        </div>
+        <div class="card-body">
+            <div class="passEditRowName">
+                <label asp-for="sub.name">Name: </label>
+                <input asp-for="sub.name" placeholder="@Model.sub.name" />
+            </div>
+            <div class="passEditRowPhoneNumber">
+                <label asp-for="sub.name_of_tarif">tariff name: </label>
+                <input asp-for="sub.name_of_tarif" placeholder="@Model.sub.name_of_tarif" />
+            </div>
+            <div class="passEditRowEmail">
+                <label asp-for="sub.email">Email: </label>
+                <input asp-for="sub.email" placeholder="@Model.sub.email" />
+            </div>
+        </div>
+    </div>
+    <div>
+        <button class="btn41-43 btn-43" type="submit">Create</button>
+        <a class="btn41-43 btn-43" asp-page="./Index">Cancel</a>
+    </div>
+</form>

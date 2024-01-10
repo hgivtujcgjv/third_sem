@@ -1,0 +1,30 @@
+﻿@page "{id}"
+@model Lab12.Pages.Users.EditUser
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    Layout = "_Layout";
+}
+
+<form method="post">
+    <div class="card">
+        <div class="card-header">
+            <h1>Edit author</h1>
+        </div>
+        <div class="card-body">
+            <div class="passEditRowName">
+                <label asp-for="User.phone_number">Edit phone number: </label>
+                <input asp-for="User.phone_number" placeholder="@Model.User.phone_number" />
+            </div>
+            <div class="passEditRowName">
+                <label asp-for="User.name">Edit name: </label>
+                <input asp-for="User.name" placeholder="@Model.User.name" />
+            </div>
+        </div>
+    </div>
+    <div>
+        <button class="btn41-43 btn-43" type="submit">Update</button>
+        <a class="btn41-43 btn-43" asp-page="./Index">Cancel</a>
+    </div>
+
+</form>

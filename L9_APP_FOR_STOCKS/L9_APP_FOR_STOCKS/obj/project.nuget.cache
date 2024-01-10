@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qa4x9gsotx6/bBij9CqLv/gckud6RejMSM7WQ5rXtUiJCl/iHkjcP4MyoFcpOXhUtEP941nF1nC5mQUvTAQjLw==",
+  "success": true,
+  "projectFilePath": "D:\\projects_c#\\L9_APP_FOR_STOCKS\\L9_APP_FOR_STOCKS\\L9_APP_FOR_STOCKS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Егор\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

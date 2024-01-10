@@ -1,0 +1,14 @@
+D:\projects_c#\Lab15\lab15_part3\bin\Debug\net7.0\lab15_part3.exe
+D:\projects_c#\Lab15\lab15_part3\bin\Debug\net7.0\lab15_part3.deps.json
+D:\projects_c#\Lab15\lab15_part3\bin\Debug\net7.0\lab15_part3.runtimeconfig.json
+D:\projects_c#\Lab15\lab15_part3\bin\Debug\net7.0\lab15_part3.dll
+D:\projects_c#\Lab15\lab15_part3\bin\Debug\net7.0\lab15_part3.pdb
+D:\projects_c#\Lab15\lab15_part3\obj\Debug\net7.0\lab15_part3.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects_c#\Lab15\lab15_part3\obj\Debug\net7.0\lab15_part3.AssemblyInfoInputs.cache
+D:\projects_c#\Lab15\lab15_part3\obj\Debug\net7.0\lab15_part3.AssemblyInfo.cs
+D:\projects_c#\Lab15\lab15_part3\obj\Debug\net7.0\lab15_part3.csproj.CoreCompileInputs.cache
+D:\projects_c#\Lab15\lab15_part3\obj\Debug\net7.0\lab15_part3.dll
+D:\projects_c#\Lab15\lab15_part3\obj\Debug\net7.0\refint\lab15_part3.dll
+D:\projects_c#\Lab15\lab15_part3\obj\Debug\net7.0\lab15_part3.pdb
+D:\projects_c#\Lab15\lab15_part3\obj\Debug\net7.0\lab15_part3.genruntimeconfig.cache
+D:\projects_c#\Lab15\lab15_part3\obj\Debug\net7.0\ref\lab15_part3.dll

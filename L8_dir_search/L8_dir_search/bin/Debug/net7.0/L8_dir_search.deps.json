@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "L8_dir_search/1.0.0": {
+        "runtime": {
+          "L8_dir_search.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L8_dir_search/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

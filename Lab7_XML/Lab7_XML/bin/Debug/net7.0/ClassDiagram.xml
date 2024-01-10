@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ClassDiagram>
+  <Class Name="Cow">
+    <comment>This is cow</comment>
+    <Method Modifier="public override " Call="GetFavoriteFood" Type="Method" />
+    <Method Modifier="public override " Call="SayHello" Type="Method" />
+    <Constructor Class="Cow" Type="Constructor">
+      <Parameter Name="food" Type="eFavoriteFood" />
+      <Parameter Name="animal" Type="eClassificationAnimal" />
+      <Parameter Name="country" Type="String" />
+      <Parameter Name="hide" Type="String" />
+      <Parameter Name="name" Type="String" />
+      <Parameter Name="w_animal" Type="String" />
+    </Constructor>
+  </Class>
+  <Class Name="Lion">
+    <comment>This is lion</comment>
+    <Method Modifier="public override " Call="GetFavoriteFood" Type="Method" />
+    <Method Modifier="public override " Call="SayHello" Type="Method" />
+    <Constructor Class="Lion" Type="Constructor">
+      <Parameter Name="food" Type="eFavoriteFood" />
+      <Parameter Name="animal" Type="eClassificationAnimal" />
+      <Parameter Name="country" Type="String" />
+      <Parameter Name="hide" Type="String" />
+      <Parameter Name="name" Type="String" />
+      <Parameter Name="w_animal" Type="String" />
+    </Constructor>
+  </Class>
+  <Class Name="Pig">
+    <comment>This is pig</comment>
+    <Method Modifier="public override " Call="GetFavoriteFood" Type="Method" />
+    <Method Modifier="public override " Call="SayHello" Type="Method" />
+    <Constructor Class="Pig" Type="Constructor">
+      <Parameter Name="food" Type="eFavoriteFood" />
+      <Parameter Name="animal" Type="eClassificationAnimal" />
+      <Parameter Name="country" Type="String" />
+      <Parameter Name="hide" Type="String" />
+      <Parameter Name="name" Type="String" />
+      <Parameter Name="w_animal" Type="String" />
+    </Constructor>
+  </Class>
+</ClassDiagram>

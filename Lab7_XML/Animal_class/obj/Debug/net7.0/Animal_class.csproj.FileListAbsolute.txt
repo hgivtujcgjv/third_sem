@@ -1,0 +1,11 @@
+D:\projects_c#\Lab7_XML\Animal_class\bin\Debug\net7.0\Animal_class.deps.json
+D:\projects_c#\Lab7_XML\Animal_class\bin\Debug\net7.0\Animal_class.dll
+D:\projects_c#\Lab7_XML\Animal_class\bin\Debug\net7.0\Animal_class.pdb
+D:\projects_c#\Lab7_XML\Animal_class\obj\Debug\net7.0\Animal_class.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects_c#\Lab7_XML\Animal_class\obj\Debug\net7.0\Animal_class.AssemblyInfoInputs.cache
+D:\projects_c#\Lab7_XML\Animal_class\obj\Debug\net7.0\Animal_class.AssemblyInfo.cs
+D:\projects_c#\Lab7_XML\Animal_class\obj\Debug\net7.0\Animal_class.csproj.CoreCompileInputs.cache
+D:\projects_c#\Lab7_XML\Animal_class\obj\Debug\net7.0\Animal_class.dll
+D:\projects_c#\Lab7_XML\Animal_class\obj\Debug\net7.0\refint\Animal_class.dll
+D:\projects_c#\Lab7_XML\Animal_class\obj\Debug\net7.0\Animal_class.pdb
+D:\projects_c#\Lab7_XML\Animal_class\obj\Debug\net7.0\ref\Animal_class.dll

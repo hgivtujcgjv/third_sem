@@ -1,0 +1,43 @@
+﻿@page "{id}"
+@model Lab12.Pages.subscriber.EditModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    Layout = "_Layout";
+}
+
+<form method="post">
+    <div class="card">
+        <div class="card-header">
+            <h1>Edit book data</h1>
+        </div>
+        <div class="card-body">
+            <div class="passEditRowName">
+                <label asp-for="sub.name">Edit name: </label>
+                <input asp-for="sub.name" placeholder="@Model.sub.name" />
+            </div>
+            <div class="passEditRowtarif">
+                <label asp-for="sub.name_of_tarif">Edit tariff: </label>
+                <select asp-for="sub.name_of_tarif" class="custom-select mr-2">
+                    @foreach (var tarif in Model.tariff)
+                    {
+                        <option value="tarif.Id">tarif.name_of_tarif</option>
+                    }
+                </select>
+            </div>
+            <div class="passEditRowEmail">
+                <label asp-for="sub.Id">Edit email: </label>
+                <select asp-for="sub.Id" class="custom-select mr-2">
+                    @foreach (var usr in Model.User)
+                    {
+                        <option value="@usr.Id">@usr.email</option>
+                    }
+                </select>
+            </div>
+        </div>
+    </div>
+    <div>
+        <button class="btn41-43 btn-43" type="submit">Update</button>
+        <a class="btn41-43 btn-43" asp-page="/Index">Cancel</a>
+    </div>
+</form>

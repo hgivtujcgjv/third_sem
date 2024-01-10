@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAnimal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Animal xsi:type="Cow">
+    <a_type>Herbivores</a_type>
+    <a_favoriteFood>Plants</a_favoriteFood>
+    <Country>Country</Country>
+    <Name>KOT</Name>
+  </Animal>
+  <Animal xsi:type="Lion">
+    <a_type>Carnivores</a_type>
+    <a_favoriteFood>Meat</a_favoriteFood>
+    <Country>India</Country>
+    <Name>Rajah</Name>
+  </Animal>
+  <Animal xsi:type="Cow">
+    <a_type>Herbivores</a_type>
+    <a_favoriteFood>Plants</a_favoriteFood>
+    <Country>USA</Country>
+    <Name>Bessie</Name>
+  </Animal>
+</ArrayOfAnimal>

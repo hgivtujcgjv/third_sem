@@ -1,0 +1,11 @@
+D:\projects_c#\L8_XML_serialize\Lib_animal\bin\Debug\net7.0\Lib_animal.deps.json
+D:\projects_c#\L8_XML_serialize\Lib_animal\bin\Debug\net7.0\Lib_animal.dll
+D:\projects_c#\L8_XML_serialize\Lib_animal\bin\Debug\net7.0\Lib_animal.pdb
+D:\projects_c#\L8_XML_serialize\Lib_animal\obj\Debug\net7.0\Lib_animal.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects_c#\L8_XML_serialize\Lib_animal\obj\Debug\net7.0\Lib_animal.AssemblyInfoInputs.cache
+D:\projects_c#\L8_XML_serialize\Lib_animal\obj\Debug\net7.0\Lib_animal.AssemblyInfo.cs
+D:\projects_c#\L8_XML_serialize\Lib_animal\obj\Debug\net7.0\Lib_animal.csproj.CoreCompileInputs.cache
+D:\projects_c#\L8_XML_serialize\Lib_animal\obj\Debug\net7.0\Lib_animal.dll
+D:\projects_c#\L8_XML_serialize\Lib_animal\obj\Debug\net7.0\refint\Lib_animal.dll
+D:\projects_c#\L8_XML_serialize\Lib_animal\obj\Debug\net7.0\Lib_animal.pdb
+D:\projects_c#\L8_XML_serialize\Lib_animal\obj\Debug\net7.0\ref\Lib_animal.dll

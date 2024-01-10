@@ -1,0 +1,14 @@
+D:\projects_c#\L5_E1\L5_E1\bin\Debug\net7.0\L5_E1.exe
+D:\projects_c#\L5_E1\L5_E1\bin\Debug\net7.0\L5_E1.deps.json
+D:\projects_c#\L5_E1\L5_E1\bin\Debug\net7.0\L5_E1.runtimeconfig.json
+D:\projects_c#\L5_E1\L5_E1\bin\Debug\net7.0\L5_E1.dll
+D:\projects_c#\L5_E1\L5_E1\bin\Debug\net7.0\L5_E1.pdb
+D:\projects_c#\L5_E1\L5_E1\obj\Debug\net7.0\L5_E1.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects_c#\L5_E1\L5_E1\obj\Debug\net7.0\L5_E1.AssemblyInfoInputs.cache
+D:\projects_c#\L5_E1\L5_E1\obj\Debug\net7.0\L5_E1.AssemblyInfo.cs
+D:\projects_c#\L5_E1\L5_E1\obj\Debug\net7.0\L5_E1.csproj.CoreCompileInputs.cache
+D:\projects_c#\L5_E1\L5_E1\obj\Debug\net7.0\L5_E1.dll
+D:\projects_c#\L5_E1\L5_E1\obj\Debug\net7.0\refint\L5_E1.dll
+D:\projects_c#\L5_E1\L5_E1\obj\Debug\net7.0\L5_E1.pdb
+D:\projects_c#\L5_E1\L5_E1\obj\Debug\net7.0\L5_E1.genruntimeconfig.cache
+D:\projects_c#\L5_E1\L5_E1\obj\Debug\net7.0\ref\L5_E1.dll

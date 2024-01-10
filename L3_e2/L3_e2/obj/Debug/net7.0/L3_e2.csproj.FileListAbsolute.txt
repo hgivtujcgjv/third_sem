@@ -1,0 +1,14 @@
+D:\projects_c#\L3_e2\L3_e2\bin\Debug\net7.0\L3_e2.exe
+D:\projects_c#\L3_e2\L3_e2\bin\Debug\net7.0\L3_e2.deps.json
+D:\projects_c#\L3_e2\L3_e2\bin\Debug\net7.0\L3_e2.runtimeconfig.json
+D:\projects_c#\L3_e2\L3_e2\bin\Debug\net7.0\L3_e2.dll
+D:\projects_c#\L3_e2\L3_e2\bin\Debug\net7.0\L3_e2.pdb
+D:\projects_c#\L3_e2\L3_e2\obj\Debug\net7.0\L3_e2.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects_c#\L3_e2\L3_e2\obj\Debug\net7.0\L3_e2.AssemblyInfoInputs.cache
+D:\projects_c#\L3_e2\L3_e2\obj\Debug\net7.0\L3_e2.AssemblyInfo.cs
+D:\projects_c#\L3_e2\L3_e2\obj\Debug\net7.0\L3_e2.csproj.CoreCompileInputs.cache
+D:\projects_c#\L3_e2\L3_e2\obj\Debug\net7.0\L3_e2.dll
+D:\projects_c#\L3_e2\L3_e2\obj\Debug\net7.0\refint\L3_e2.dll
+D:\projects_c#\L3_e2\L3_e2\obj\Debug\net7.0\L3_e2.pdb
+D:\projects_c#\L3_e2\L3_e2\obj\Debug\net7.0\L3_e2.genruntimeconfig.cache
+D:\projects_c#\L3_e2\L3_e2\obj\Debug\net7.0\ref\L3_e2.dll

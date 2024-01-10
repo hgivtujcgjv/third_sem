@@ -1,0 +1,14 @@
+D:\projects_c#\L4_e1\L4_e1\bin\Debug\net7.0\L4_e1.exe
+D:\projects_c#\L4_e1\L4_e1\bin\Debug\net7.0\L4_e1.deps.json
+D:\projects_c#\L4_e1\L4_e1\bin\Debug\net7.0\L4_e1.runtimeconfig.json
+D:\projects_c#\L4_e1\L4_e1\bin\Debug\net7.0\L4_e1.dll
+D:\projects_c#\L4_e1\L4_e1\bin\Debug\net7.0\L4_e1.pdb
+D:\projects_c#\L4_e1\L4_e1\obj\Debug\net7.0\L4_e1.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects_c#\L4_e1\L4_e1\obj\Debug\net7.0\L4_e1.AssemblyInfoInputs.cache
+D:\projects_c#\L4_e1\L4_e1\obj\Debug\net7.0\L4_e1.AssemblyInfo.cs
+D:\projects_c#\L4_e1\L4_e1\obj\Debug\net7.0\L4_e1.csproj.CoreCompileInputs.cache
+D:\projects_c#\L4_e1\L4_e1\obj\Debug\net7.0\L4_e1.dll
+D:\projects_c#\L4_e1\L4_e1\obj\Debug\net7.0\refint\L4_e1.dll
+D:\projects_c#\L4_e1\L4_e1\obj\Debug\net7.0\L4_e1.pdb
+D:\projects_c#\L4_e1\L4_e1\obj\Debug\net7.0\L4_e1.genruntimeconfig.cache
+D:\projects_c#\L4_e1\L4_e1\obj\Debug\net7.0\ref\L4_e1.dll

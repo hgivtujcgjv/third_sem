@@ -1,0 +1,14 @@
+D:\projects_c#\lab1_ex2_\lab1_ex2_\obj\Debug\net7.0\lab1_ex2_.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects_c#\lab1_ex2_\lab1_ex2_\obj\Debug\net7.0\lab1_ex2_.AssemblyInfoInputs.cache
+D:\projects_c#\lab1_ex2_\lab1_ex2_\obj\Debug\net7.0\lab1_ex2_.AssemblyInfo.cs
+D:\projects_c#\lab1_ex2_\lab1_ex2_\obj\Debug\net7.0\lab1_ex2_.csproj.CoreCompileInputs.cache
+D:\projects_c#\lab1_ex2_\lab1_ex2_\bin\Debug\net7.0\lab1_ex2_.exe
+D:\projects_c#\lab1_ex2_\lab1_ex2_\bin\Debug\net7.0\lab1_ex2_.deps.json
+D:\projects_c#\lab1_ex2_\lab1_ex2_\bin\Debug\net7.0\lab1_ex2_.runtimeconfig.json
+D:\projects_c#\lab1_ex2_\lab1_ex2_\bin\Debug\net7.0\lab1_ex2_.dll
+D:\projects_c#\lab1_ex2_\lab1_ex2_\bin\Debug\net7.0\lab1_ex2_.pdb
+D:\projects_c#\lab1_ex2_\lab1_ex2_\obj\Debug\net7.0\lab1_ex2_.dll
+D:\projects_c#\lab1_ex2_\lab1_ex2_\obj\Debug\net7.0\refint\lab1_ex2_.dll
+D:\projects_c#\lab1_ex2_\lab1_ex2_\obj\Debug\net7.0\lab1_ex2_.pdb
+D:\projects_c#\lab1_ex2_\lab1_ex2_\obj\Debug\net7.0\lab1_ex2_.genruntimeconfig.cache
+D:\projects_c#\lab1_ex2_\lab1_ex2_\obj\Debug\net7.0\ref\lab1_ex2_.dll

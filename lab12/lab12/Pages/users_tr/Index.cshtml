@@ -1,0 +1,35 @@
+﻿@page
+@using Lab12.Pages.Users;
+@model Lab12.Pages.Users.IndexUser
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    Layout = "_Layout";
+}
+
+@{
+    ViewData["Title"] = "Users";
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>User phone</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model.User)
+        {
+            <tr>
+                <td>@user.phone_number</td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@user.Id">Edit</a> |
+                    <a asp-page="./Delete" asp-route-id="@user.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a class="btn41-43 btn-43" asp-page="./Create">Create New</a>
+<a class="btn41-43 btn-43" asp-page="../Books/Index">Back to books</a>

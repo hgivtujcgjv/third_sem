@@ -1,0 +1,17 @@
+D:\projects_c#\Lab15\lab15_part2\bin\Debug\net7.0\lab15_part2.exe
+D:\projects_c#\Lab15\lab15_part2\bin\Debug\net7.0\lab15_part2.deps.json
+D:\projects_c#\Lab15\lab15_part2\bin\Debug\net7.0\lab15_part2.runtimeconfig.json
+D:\projects_c#\Lab15\lab15_part2\bin\Debug\net7.0\lab15_part2.dll
+D:\projects_c#\Lab15\lab15_part2\bin\Debug\net7.0\lab15_part2.pdb
+D:\projects_c#\Lab15\lab15_part2\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\projects_c#\Lab15\lab15_part2\obj\Debug\net7.0\lab15_part2.csproj.AssemblyReference.cache
+D:\projects_c#\Lab15\lab15_part2\obj\Debug\net7.0\lab15_part2.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects_c#\Lab15\lab15_part2\obj\Debug\net7.0\lab15_part2.AssemblyInfoInputs.cache
+D:\projects_c#\Lab15\lab15_part2\obj\Debug\net7.0\lab15_part2.AssemblyInfo.cs
+D:\projects_c#\Lab15\lab15_part2\obj\Debug\net7.0\lab15_part2.csproj.CoreCompileInputs.cache
+D:\projects_c#\Lab15\lab15_part2\obj\Debug\net7.0\lab15_part2.csproj.CopyComplete
+D:\projects_c#\Lab15\lab15_part2\obj\Debug\net7.0\lab15_part2.dll
+D:\projects_c#\Lab15\lab15_part2\obj\Debug\net7.0\refint\lab15_part2.dll
+D:\projects_c#\Lab15\lab15_part2\obj\Debug\net7.0\lab15_part2.pdb
+D:\projects_c#\Lab15\lab15_part2\obj\Debug\net7.0\lab15_part2.genruntimeconfig.cache
+D:\projects_c#\Lab15\lab15_part2\obj\Debug\net7.0\ref\lab15_part2.dll

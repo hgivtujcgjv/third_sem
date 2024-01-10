@@ -1,0 +1,77 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = lab12
+build_property.RootNamespace = lab12
+build_property.ProjectDir = D:\projects_c#\lab12\lab12\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\projects_c#\lab12\lab12
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/projects_c\#/lab12/lab12/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects_c\#/lab12/lab12/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects_c\#/lab12/lab12/Pages/subscribers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc3Vic2NyaWJlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects_c\#/lab12/lab12/Pages/subscribers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc3Vic2NyaWJlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects_c\#/lab12/lab12/Pages/subscribers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc3Vic2NyaWJlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects_c\#/lab12/lab12/Pages/subscribers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc3Vic2NyaWJlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects_c\#/lab12/lab12/Pages/Tariffs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFyaWZmc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects_c\#/lab12/lab12/Pages/Tariffs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFyaWZmc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects_c\#/lab12/lab12/Pages/Tariffs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFyaWZmc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects_c\#/lab12/lab12/Pages/Tariffs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFyaWZmc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects_c\#/lab12/lab12/Pages/users_tr/create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdXNlcnNfdHJcY3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects_c\#/lab12/lab12/Pages/users_tr/delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdXNlcnNfdHJcZGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects_c\#/lab12/lab12/Pages/users_tr/edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdXNlcnNfdHJcZWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects_c\#/lab12/lab12/Pages/users_tr/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdXNlcnNfdHJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects_c\#/lab12/lab12/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-202te90iuj

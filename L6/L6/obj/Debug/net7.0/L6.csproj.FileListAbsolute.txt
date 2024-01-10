@@ -1,0 +1,17 @@
+D:\projects_c#\L6\L6\bin\Debug\net7.0\L6.exe
+D:\projects_c#\L6\L6\bin\Debug\net7.0\L6.deps.json
+D:\projects_c#\L6\L6\bin\Debug\net7.0\L6.runtimeconfig.json
+D:\projects_c#\L6\L6\bin\Debug\net7.0\L6.dll
+D:\projects_c#\L6\L6\bin\Debug\net7.0\L6.pdb
+D:\projects_c#\L6\L6\obj\Debug\net7.0\L6.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects_c#\L6\L6\obj\Debug\net7.0\L6.AssemblyInfoInputs.cache
+D:\projects_c#\L6\L6\obj\Debug\net7.0\L6.AssemblyInfo.cs
+D:\projects_c#\L6\L6\obj\Debug\net7.0\L6.csproj.CoreCompileInputs.cache
+D:\projects_c#\L6\L6\obj\Debug\net7.0\L6.dll
+D:\projects_c#\L6\L6\obj\Debug\net7.0\refint\L6.dll
+D:\projects_c#\L6\L6\obj\Debug\net7.0\L6.pdb
+D:\projects_c#\L6\L6\obj\Debug\net7.0\L6.genruntimeconfig.cache
+D:\projects_c#\L6\L6\obj\Debug\net7.0\ref\L6.dll
+D:\projects_c#\L6\L6\obj\Debug\net7.0\L6.csproj.AssemblyReference.cache
+D:\projects_c#\L6\L6\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\projects_c#\L6\L6\obj\Debug\net7.0\L6.csproj.CopyComplete

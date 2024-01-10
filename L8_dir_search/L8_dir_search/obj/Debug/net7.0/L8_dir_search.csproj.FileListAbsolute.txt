@@ -1,0 +1,14 @@
+D:\projects_c#\L8_dir_search\L8_dir_search\bin\Debug\net7.0\L8_dir_search.exe
+D:\projects_c#\L8_dir_search\L8_dir_search\bin\Debug\net7.0\L8_dir_search.deps.json
+D:\projects_c#\L8_dir_search\L8_dir_search\bin\Debug\net7.0\L8_dir_search.runtimeconfig.json
+D:\projects_c#\L8_dir_search\L8_dir_search\bin\Debug\net7.0\L8_dir_search.dll
+D:\projects_c#\L8_dir_search\L8_dir_search\bin\Debug\net7.0\L8_dir_search.pdb
+D:\projects_c#\L8_dir_search\L8_dir_search\obj\Debug\net7.0\L8_dir_search.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects_c#\L8_dir_search\L8_dir_search\obj\Debug\net7.0\L8_dir_search.AssemblyInfoInputs.cache
+D:\projects_c#\L8_dir_search\L8_dir_search\obj\Debug\net7.0\L8_dir_search.AssemblyInfo.cs
+D:\projects_c#\L8_dir_search\L8_dir_search\obj\Debug\net7.0\L8_dir_search.csproj.CoreCompileInputs.cache
+D:\projects_c#\L8_dir_search\L8_dir_search\obj\Debug\net7.0\L8_dir_search.dll
+D:\projects_c#\L8_dir_search\L8_dir_search\obj\Debug\net7.0\refint\L8_dir_search.dll
+D:\projects_c#\L8_dir_search\L8_dir_search\obj\Debug\net7.0\L8_dir_search.pdb
+D:\projects_c#\L8_dir_search\L8_dir_search\obj\Debug\net7.0\L8_dir_search.genruntimeconfig.cache
+D:\projects_c#\L8_dir_search\L8_dir_search\obj\Debug\net7.0\ref\L8_dir_search.dll

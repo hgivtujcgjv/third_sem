@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "L8_XML_serialize/1.0.0": {
+        "dependencies": {
+          "Lib_animal": "1.0.0"
+        },
+        "runtime": {
+          "L8_XML_serialize.dll": {}
+        }
+      },
+      "Lib_animal/1.0.0": {
+        "runtime": {
+          "Lib_animal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L8_XML_serialize/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lib_animal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

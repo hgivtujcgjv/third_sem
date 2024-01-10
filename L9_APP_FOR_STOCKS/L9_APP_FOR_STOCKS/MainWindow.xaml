@@ -1,0 +1,33 @@
+﻿<Window x:Class="L9_APP_FOR_STOCKS.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:L9_APP_FOR_STOCKS"
+        mc:Ignorable="d"
+        Title="L9_APP" Height="450" Width="800">
+    <Grid  Background = "#c3c1e3">
+        <Border MinWidth="100" Margin= "19,109,19,45" Grid.Column="1" Background="#575763" CornerRadius="30">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="60" Color="#c7c230"/>
+            </Border.Effect>
+            <StackPanel>
+                <TextBlock Text="Выберите город из списка" Margin="-9,-47,-41,70" FontSize="18" FontWeight="Bold" FontStyle="Italic" Foreground="#FF575763" />
+            </StackPanel>
+        </Border>
+        <ListView x:Name="myListView" Margin="22,10,33,50" Grid.RowSpan="2" SelectionChanged="listView_SelectionChanged">
+            
+        </ListView>
+        <ListView x:Name="Second_ml" Margin="20,55,20,54" Grid.Column="1" Grid.Row="1">
+        </ListView>
+        <Button x:Name="City_button" Content="Подтвердить выбор!" Click="City_button_Click" HorizontalAlignment="Center" Margin="0,118,0,0" VerticalAlignment="Top" Grid.Column="1" Width="180" Height="35" RenderTransformOrigin="0.512,0.788" FontSize="17" FontWeight="Bold" Foreground="#FFDFE6F9" BorderBrush="#575763" Background="#575763"/>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="137*" />
+            <ColumnDefinition Width="63*" />
+        </Grid.ColumnDefinitions>
+    </Grid>
+</Window>
